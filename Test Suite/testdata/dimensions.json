@@ -1,0 +1,52 @@
+﻿{
+   "Dimension":[
+      {
+         "Code":"TESTDIM1",
+         "Name":"Test Dimension 1",
+         "Code_Caption":"Test Dimension 1 Code",
+         "Filter_Caption":"Test Dimension 1 Filter",
+         "Description":"",
+         "Blocked":false,
+         "Consolidation_Code":"",
+         "Map-to_IC_Dimension_Code":"",
+         "Id":"",
+         "Last_Modified_Date_Time":"2020-08-19T10:11:43.3870000Z"
+      },
+      {
+         "Code":"TESTDIM2",
+         "Name":"Test Dimension 2",
+         "Code_Caption":"Test Dimension 2 Code",
+         "Filter_Caption":"Test Dimension 2 Filter",
+         "Description":"",
+         "Blocked":false,
+         "Consolidation_Code":"",
+         "Map-to_IC_Dimension_Code":"",
+         "Id":"",
+         "Last_Modified_Date_Time":"2020-08-19T10:11:43.3870000Z"
+      },
+      {
+         "Code":"TESTDIM3",
+         "Name":"Test Dimension 3",
+         "Code_Caption":"Test Dimension 3 Code",
+         "Filter_Caption":"Test Dimension 3 Filter",
+         "Description":"",
+         "Blocked":false,
+         "Consolidation_Code":"",
+         "Map-to_IC_Dimension_Code":"",
+         "Id":"",
+         "Last_Modified_Date_Time":"2020-08-19T10:11:43.3870000Z"
+      },
+      {
+         "Code":"TESTDIM4",
+         "Name":"Test Dimension 4",
+         "Code_Caption":"Test Dimension 4 Code",
+         "Filter_Caption":"Test Dimension 4 Filter",
+         "Description":"",
+         "Blocked":false,
+         "Consolidation_Code":"",
+         "Map-to_IC_Dimension_Code":"",
+         "Id":"",
+         "Last_Modified_Date_Time":"2020-08-19T10:11:43.3870000Z"
+      },     
+   ]
+}

@@ -1,0 +1,5 @@
+﻿Document_Type,No.,Sell-to_Customer_No.,Bill-to_Customer_No.,Posting_Date,TESTDIM1,TESTDIM2,TESTDIM3,TESTDIM4
+1,"TEST_SO1","10000","10000","2020-04-02","A1","B2","C3","D4"
+1,"TEST_SO2","10000","10000","2020-05-01","A2","B3","C4","D1"
+1,"TEST_SO3","30000","30000","2020-04-22","A3","B4","C1","D4"
+1,"TEST_SO4","40000","40000","2020-05-13","A4","B1","C2","D3"

@@ -1,0 +1,127 @@
+﻿{
+  "BCCL_Test_Table_Hgd": [
+    {
+      "FieldNo": 1,
+      "FieldName": "PCODE",
+      "MappedName": "PCODE",
+      "Validate": false
+    },
+    {
+      "FieldNo": 2,
+      "FieldName": "PDATE",
+      "MappedName": "PDATE",
+      "Validate": false
+    },
+    {
+      "FieldNo": 3,
+      "FieldName": "POPTION",
+      "MappedName": "POPTION",
+      "Validate": false
+    },
+    {
+      "FieldNo": 4,
+      "FieldName": "PINTEGER",
+      "MappedName": "PINTEGER",
+      "Validate": false
+    },
+    {
+      "FieldNo": 100,
+      "FieldName": "DTEXT",
+      "MappedName": "DTEXT",
+      "Validate": false
+    },
+    {
+      "FieldNo": 101,
+      "FieldName": "DGUID",
+      "MappedName": "DGUID",
+      "Validate": false
+    },
+    {
+      "FieldNo": 102,
+      "FieldName": "DCODE",
+      "MappedName": "DCODE",
+      "Validate": false
+    },
+    {
+      "FieldNo": 103,
+      "FieldName": "DBigInteger",
+      "MappedName": "DBigInteger",
+      "Validate": false
+    },
+    {
+      "FieldNo": 104,
+      "FieldName": "DBoolean",
+      "MappedName": "DBoolean",
+      "Validate": false
+    },
+    {
+      "FieldNo": 105,
+      "FieldName": "DDate",
+      "MappedName": "DDate",
+      "Validate": false
+    },
+    {
+      "FieldNo": 106,
+      "FieldName": "DDateTime",
+      "MappedName": "DDateTime",
+      "Validate": false
+    },
+    {
+      "FieldNo": 107,
+      "FieldName": "DDecimal",
+      "MappedName": "DDecimal",
+      "Validate": false
+    },
+    {
+      "FieldNo": 108,
+      "FieldName": "DInteger",
+      "MappedName": "DInteger",
+      "Validate": false
+    },
+    {
+      "FieldNo": 109,
+      "FieldName": "DOption",
+      "MappedName": "DOption",
+      "Validate": false
+    },
+    {
+      "FieldNo": 110,
+      "FieldName": "DBlob",
+      "MappedName": "DBlob",
+      "Validate": false
+    },
+    {
+      "FieldNo": 111,
+      "FieldName": "DMedia",
+      "MappedName": "DMedia",
+      "Validate": false
+    },
+    {
+      "FieldNo": 112,
+      "FieldName": "DTime",
+      "MappedName": "DTime",
+      "Validate": false
+    },
+    {
+      "FieldNo": 200,
+      "FieldName": "Shortcut Dimension 1 Code",
+      "MappedName": "Shortcut_Dimension_1_Code",
+      "Validate": false
+    },
+    {
+      "FieldNo": 201,
+      "FieldName": "Shortcut Dimension 2 Code",
+      "MappedName": "Shortcut_Dimension_2_Code",
+      "Validate": false
+    },
+    {
+      "FieldNo": 202,
+      "FieldName": "Dimension Set ID",
+      "MappedName": "Dimension_Set_ID",
+      "Validate": false
+    }
+  ],
+  "ValidateOnInsert": false,
+  "ValidateOnModify": false,
+  "ValidateOnDelete": false
+}

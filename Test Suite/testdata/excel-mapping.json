@@ -1,0 +1,31 @@
+﻿{
+  "Customer": [
+    {
+      "FieldNo": 1,
+      "FieldName": "No.",
+      "MappedName": "A",
+      "Validate": true
+    },
+    {
+      "FieldNo": 2,
+      "FieldName": "Name",
+      "MappedName": "B",
+      "Validate": true
+    },
+    {
+      "FieldNo": 7,
+      "FieldName": "City",
+      "MappedName": "C",
+      "Validate": true
+    },
+    {
+      "FieldNo": 91,
+      "FieldName": "Post Code",
+      "MappedName": "D",
+      "Validate": true
+    }
+  ],
+  "ValidateOnInsert": true,
+  "ValidateOnModify": true,
+  "ValidateOnDelete": true
+}

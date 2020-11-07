@@ -1,0 +1,65 @@
+﻿{
+  "Sales_Header": [
+    {
+      "FieldNo": 1,
+      "FieldName": "Document Type",
+      "MappedName": "Document_Type",
+      "Validate": true
+    },
+    {
+      "FieldNo": 3,
+      "FieldName": "No.",
+      "MappedName": "No.",
+      "Validate": true
+    },
+    {
+      "FieldNo": 2,
+      "FieldName": "Sell-to Customer No.",
+      "MappedName": "Sell-to_Customer_No.",
+      "Validate": true
+    },
+    {
+      "FieldNo": 4,
+      "FieldName": "Bill-to Customer No.",
+      "MappedName": "Bill-to_Customer_No.",
+      "Validate": true
+    },
+    {
+      "FieldNo": 20,
+      "FieldName": "Posting Date",
+      "MappedName": "Posting_Date",
+      "Validate": true
+    },
+    {
+      "FieldNo": 480,
+      "FieldName": "Dimension Set ID",
+      "MappedName": "TESTDIM1",
+      "Function": "DimensionFromSet(TESTDIM1)",
+      "Validate": true
+    },
+    {
+      "FieldNo": 480,
+      "FieldName": "Dimension Set ID",
+      "MappedName": "TESTDIM2",
+      "Function": "DimensionFromSet(TESTDIM2)",
+      "Validate": true
+    },
+    {
+      "FieldNo": 480,
+      "FieldName": "Dimension Set ID",
+      "MappedName": "TESTDIM3",
+      "Function": "DimensionFromSet(TESTDIM3)",
+      "Validate": true
+    },
+    {
+      "FieldNo": 480,
+      "FieldName": "Dimension Set ID",
+      "MappedName": "TESTDIM4",
+      "Function": "DimensionFromSet(TESTDIM4)",
+      "Validate": true
+    }
+  ],
+  "ValidateOnInsert": true,
+  "ValidateOnModify": true,
+  "ValidateOnDelete": true
+}
