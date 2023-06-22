@@ -5,3 +5,10 @@
 - Assisted setup link
 - New BCCL Start screen
 - SQL Sync Bundle Builder
+
+## BCCL 2.22.0.222 - 2023-06-21
+- Major GETDATA performance improvement
+- Less resource constraint issues
+- REQUIRES BOTH CLIENT AND EXTENSION TO BE AT LEAST 2.22.0.222
+
+  
